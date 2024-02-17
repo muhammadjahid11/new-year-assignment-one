@@ -121,4 +121,22 @@ section {}
   height: 400.65px;
   left: 900px;
   top: 1500px;
+  margin-bottom: 30px;
 }
+
+.all-place {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-align: center;
+  width: 1320px;
+  height: 482px;
+  border-radius: 16px;
+  background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0) 100%);
+}
+
+.place p {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
