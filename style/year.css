@@ -5,6 +5,8 @@ body {
   font-optical-sizing: auto;
 }
 
+section {}
+
 .container {
   position: absolute;
   top: 30%;
@@ -19,21 +21,21 @@ body {
 }
 
 .Happy {
-  margin-bottom: 10px;
-  text-align: center;
+
   font-size: 32px;
   font-weight: 400;
   color: rgb(185, 213, 167);
 }
 
 .year {
-  margin-top: 5px;
+
   font-size: 52px;
   font-weight: 800;
   color: rgb(172, 197, 74);
 
 }
-.add{
+
+.add {
   margin-bottom: 50px;
 }
 
@@ -57,12 +59,66 @@ body {
 
 .adimg {
 
-  position: absolute;
-  width: 802.9px;
-  height: 500px;
-  margin-left: 250px;
-  margin-right: 400px;
-  margin-bottom: 30px;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
 }
 
+.party {
+  position: absolute;
+  width: 642px;
+  height: 176px;
+  left: 20.15%;
+  right: 31.21%;
+  top: 270%;
+  bottom: -233%;
+  color: rgb(255, 255, 255);
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 88px;
+  letter-spacing: 11%;
+  text-align: left;
+}
 
+.dolor {
+  position: absolute;
+  width: 697px;
+  height: 60px;
+  left: 266px;
+  right: 357px;
+  top: px;
+  bottom: -1280px;
+  color: white;
+
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.btn {
+  position: absolute;
+  width: 103px;
+  height: 24px;
+  left: 298px;
+  right: 919px;
+  bottom: -1300px;
+  color: none;
+
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.gr70 {
+
+  position: absolute;
+  width: 320.16px;
+  height: 400.65px;
+  left: 900px;
+  top: 1500px;
+}
