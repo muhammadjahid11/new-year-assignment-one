@@ -1,0 +1,68 @@
+/* shear font style */
+
+body {
+  font-family: "Merriweather Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.container {
+  position: absolute;
+  top: 30%;
+  left: 40%;
+
+}
+
+.image {
+  text-align: justify center;
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.Happy {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 400;
+  color: rgb(185, 213, 167);
+}
+
+.year {
+  margin-top: 5px;
+  font-size: 52px;
+  font-weight: 800;
+  color: rgb(172, 197, 74);
+
+}
+.add{
+  margin-bottom: 50px;
+}
+
+.parsent {
+  color: red;
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.HOLIDAY {
+  color: red;
+  font-size: 13px;
+
+}
+
+.categories {
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 8px;
+}
+
+.adimg {
+
+  position: absolute;
+  width: 802.9px;
+  height: 500px;
+  margin-left: 250px;
+  margin-right: 400px;
+  margin-bottom: 30px;
+}
+
+
